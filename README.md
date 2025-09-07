@@ -196,7 +196,8 @@ The skills demonstrated here reflect core cybersecurity practices required for m
 
 ## 📧 Author
 **Dakshayani Sindiri**  
-Cyber Security Intern at Future Interns  
+Cyber Security Intern at @futureinterns 
 GitHub: (https://github.com/dakshayanisindiri-98)  
 LinkedIn:( https://www.linkedin.com/in/dakshayani-sindiri-a55037302)
+
 
