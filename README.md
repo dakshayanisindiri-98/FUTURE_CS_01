@@ -57,11 +57,10 @@ The goal of this task was to:
    - **Port:** `9090`
    - **Enabled:** ✅ checked
 3. Save the settings.
+<img width="1472" height="1156" alt="zap-proxy-settings" src="https://github.com/user-attachments/assets/a65eac10-070a-46ba-a6a1-1c28f959c233" />
 
-📸 *Screenshot:*  
+📸 *Screenshot of zap-proxy-settings *  
 
-
-zap-proxy-settings
 
 -------------------------------------------------------------------------
 
@@ -76,10 +75,9 @@ zap-proxy-settings
 3. Clear the **"No Proxy For"** field completely.
 4. Restart Firefox.
 
-📸 *Screenshot:*  
+<img width="3200" height="2000" alt="Firefox-proxy-settings" src="https://github.com/user-attachments/assets/326acfd4-6376-4d60-8f4a-607733c9ee7c" />
 
-
-firefox-proxy-settings
+📸 *Screenshot of firefox-proxy-settings *  
 
 -------------------------------------------------------------------------
 
@@ -91,11 +89,10 @@ firefox-proxy-settings
   http://127.0.0.1:3000
   ```
 
-📸 *Screenshot:* 
+<img width="1244" height="1176" alt="zap-capturing-traffic" src="https://github.com/user-attachments/assets/1383ba2e-459b-4bc7-b5ee-23b2341fc136" />
+
+📸 *Screenshot of zap-capturing-traffic* 
  
-
-zap-capturing-traffic
-
 -------------------------------------------------------------------------
 
 ### Step 5: Run Active Scan
@@ -110,14 +107,13 @@ zap-capturing-traffic
 3. Leave default settings and click **Start Scan**.
 4. Wait for the scan to complete.
 
-📸 *Screenshots:*  
+<img width="3200" height="2000" alt="zap-scan-progress" src="https://github.com/user-attachments/assets/3be381bf-7df6-4115-9cec-61d784a850e3" />
 
+📸 *Screenshot of zap-scan-progress *  
 
-zap-scan-progress
+<img width="3200" height="2000" alt="zap-scan-result" src="https://github.com/user-attachments/assets/a75425bc-59f3-4ad5-890b-86cf527d627b" />
 
-
-
-zap-scan-results
+📸 *Screenshot of zap-scan-results *
 
 -------------------------------------------------------------------------
 
@@ -136,10 +132,9 @@ zap-scan-results
      juice-shop-vulnerability-report.html
      ```
 
-📸 *Screenshot:*  
+<img width="3200" height="2000" alt="zap-html-report-preview" src="https://github.com/user-attachments/assets/5f7dd2ad-a8fa-454e-835b-df8856c663c9" />
 
-
-zap-html-report-preview
+📸 *Screenshot of zap-html-report-preview *  
 
 -------------------------------------------------------------------------
 ## 📂 Project Structure
@@ -198,6 +193,7 @@ The skills demonstrated here reflect core cybersecurity practices required for m
 Cyber Security Intern at @futureinterns 
 GitHub: (https://github.com/dakshayanisindiri-98)  
 LinkedIn:( https://www.linkedin.com/in/dakshayani-sindiri-a55037302)
+
 
 
 
