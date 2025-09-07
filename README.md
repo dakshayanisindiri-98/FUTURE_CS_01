@@ -44,10 +44,9 @@ The goal of this task was to:
    ```
    http://127.0.0.1:3000
    ```
+<img width="3200" height="2000" alt="juice-shop-home" src="https://github.com/user-attachments/assets/52950999-bdd9-4d7e-8565-ebd3cb3bdb1f" />
 
-📸 *Screenshot:*  
-
-juice-shop-HomePage`
+📸 *Screenshot of juice-shop-HomePage *
 
 -------------------------------------------------------------------------
 
@@ -199,5 +198,6 @@ The skills demonstrated here reflect core cybersecurity practices required for m
 Cyber Security Intern at @futureinterns 
 GitHub: (https://github.com/dakshayanisindiri-98)  
 LinkedIn:( https://www.linkedin.com/in/dakshayani-sindiri-a55037302)
+
 
 
